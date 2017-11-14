@@ -1,0 +1,17 @@
+[2017-11-14 14:07:50.440] [ERROR] console - (node:31381) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
+[2017-11-14 14:07:50.456] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 14:10:32.342] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 14:10:33.098] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 14:10:48.764] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 14:10:49.448] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 14:11:06.517] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 14:11:07.129] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 14:11:07.748] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 14:12:00.717] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 15:58:24.141] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 16:12:25.478] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 16:12:26.699] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 16:12:27.455] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 16:37:50.482] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 16:37:51.336] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 16:37:51.515] [ERROR] access - PUT /api/install/test-database
