@@ -15,3 +15,6 @@
 [2017-11-14 16:37:50.482] [ERROR] access - PUT /api/install/test-database
 [2017-11-14 16:37:51.336] [ERROR] access - PUT /api/install/test-database
 [2017-11-14 16:37:51.515] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 18:07:16.682] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 18:14:53.446] [ERROR] access - PUT /api/install/test-database
+[2017-11-14 18:14:54.268] [ERROR] access - PUT /api/install/test-database
