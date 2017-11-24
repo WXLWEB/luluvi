@@ -3,6 +3,7 @@ body {
   font-family: Helvetica, Arial, "Hiragino Sans GB", sans-serif;
   font-size: 14px;
   line-height: 20px;
+  background-color: #f6f6f6;
 }
 
 a {
@@ -168,33 +169,33 @@ h6, .h6 {
   -webkit-text-overflow: ellipsis;
 }
 
-.navbar-blue {
-  background-color: #2a82ec;
+.navbar-white {
+  background-color: #fff;
   border: none;
   border-radius: 0;
 }
 
-.navbar-blue .navbar-header {
+.navbar-white .navbar-header {
   background-color: #fff;
   border-bottom: 1px solid #ccc;
 }
 
-.navbar-blue .navbar-header .navbar-toggle:focus,
-.navbar-blue .navbar-header .navbar-toggle:hover {
+.navbar-white .navbar-header .navbar-toggle:focus,
+.navbar-white .navbar-header .navbar-toggle:hover {
   background-color: #f9f9f9;
   border-color: #f9f9f9
 }
 
-.navbar-blue .navbar-toggle .icon-bar {
+.navbar-white .navbar-toggle .icon-bar {
   background-color: #2a82ec;
 }
 
-.navbar-blue .navbar-nav > li > a {
-  color: #fff;
+.navbar-white .navbar-nav > li > a {
+  color: #000;
 }
 
-.navbar-blue .navbar-nav > li > a:focus,
-.navbar-blue .navbar-nav > li > a:hover {
+.navbar-white .navbar-nav > li > a:focus,
+.navbar-white .navbar-nav > li > a:hover {
   background-color: #226ac0;
 }
 
@@ -212,7 +213,7 @@ h6, .h6 {
 
 .brand {
   display: block;
-  padding: 20px 15px;
+  padding: 5px 15px;
 }
 
 .carousel {
