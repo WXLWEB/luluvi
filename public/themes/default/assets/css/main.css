@@ -11,7 +11,7 @@ body {
   font-family: Helvetica, Arial, "Hiragino Sans GB", sans-serif;
   font-size: 14px;
   line-height: 20px;
-  background-color: #f6f6f6;
+  color:#A15C14;
 }
 
 
@@ -21,7 +21,7 @@ body {
   bottom: 0;
   left: 0;
   padding: 1rem;
-  background-color: #efefef;
+  background-color: #e6e6e6;
   text-align: center;
 }
 
@@ -189,14 +189,9 @@ h6, .h6 {
 }
 
 .navbar-white {
-  background-color: #fff;
   border: none;
   border-radius: 0;
   margin-bottom: 0;
-}
-
-.navbar-white .navbar-header {
-  background-color: #fff;
 }
 .navbar-white .navbar-brand {
   padding: 7px 15px;
