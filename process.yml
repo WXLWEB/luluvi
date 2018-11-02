@@ -1,7 +1,0 @@
-apps:
-  - script   : bin/www
-    name     : luluvi
-    instances: 4
-    watch  : true
-    env    :
-      NODE_ENV: prod
